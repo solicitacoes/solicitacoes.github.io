@@ -32,7 +32,7 @@ A ideia do projeto é uma aplicação de formulário com multiplos passos para o
 Encontrei o desafio de criar um formulário com multi steps no site de desafios para front-end [Fontendmentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). O desafio conta com varias imagens do layout que deve ser alcançado, tanto no Desktop quanto no mobile, eu gosto bastante dos desafios que eles disponibilizam na plataforma.
 
 ## Recursos da aplicação
-- Múltiplo cadastro: você tem uma cópia integral do registro em diferentes tipos de armazenamento
+- Múltiplo cadastro: você tem uma cópia do registro em diferentes tipos/formas de armazenamento, o que garante maior: controle, integridade, auditória, confiabilidade
 - Funciona sem servidor: as chamadas para coisas como post/get são feitas por api "arquitetura serveless"
 - Hospedado no github-pages
 - Sem custo envolvido: qualquer projeto futuro pode utilizar esse mesmo código para hospedar em diferentes instâncias do github-pages ou quaisquer plataformas ou empresas de hospedagem
