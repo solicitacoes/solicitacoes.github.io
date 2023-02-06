@@ -1,5 +1,6 @@
 import { IconTextArea, IconEnd  } from  "./icons.js";
 import { textarea1, textarea2 } from "./textareas.js"
+import { Form1, Form2, Form3 } from "./forms.js"
 
 export const Buttons2 = `<p style="margin-top: 20px;">
 <button class="btn btn-primary prevBtn btn-lg pull-left" type="button">Voltar</button>
@@ -22,20 +23,6 @@ export const URL3 = `<div class="stepwizard-step">
 <p>Confirmação</p>
 </div>`
 
-export const Form1 = `<div class="form-group">
-<label class="control-label">Nome</label>
-<input maxlength="200" type="text" required="required" class="form-control" placeholder="Inserir nome completo">
-</div>`
-
-export const Form2 = `<div class="form-group">
-<label class="control-label">Celular</label>
-<input maxlength="200" type="text" required="required" class="form-control" placeholder="Inserir número de celular">
-</div>`
-
-export const Form3 = `<div class="form-group">
-<label class="control-label">E-mail</label>
-<input maxlength="200" type="text" required="required" class="form-control" placeholder="Inserir endereço de e-mail completo">
-</div>`
 
 export const page1 = "Solicitar itens, serviços ou doações"
 export const pageAbout = `<h4 id="solicitar" style="text-align: center;"> ${page1} </h4>`
