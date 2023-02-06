@@ -1,28 +1,13 @@
 import { IconTextArea, IconEnd  } from  "./icons.js";
 import { textarea1, textarea2 } from "./textareas.js"
 import { Form1, Form2, Form3 } from "./forms.js"
+import { URL1, URL2, URL3 } from "./references.js"
 
 export const Buttons2 = `<p style="margin-top: 20px;">
 <button class="btn btn-primary prevBtn btn-lg pull-left" type="button">Voltar</button>
 <a class="btn btn-primary prevBtn btn-lg pull-left" href="/estabelecimento">Selecionar estabelecimento</a>
 <button class="btn btn-success btn-lg pull-right" type="submit">Confirmar</button>
 </p>`
-
-export const URL1 = `<div class="stepwizard-step">
-<a href="#step-1" type="button" class="btn btn-primary btn-circle">1</a>
-<p>Processo</p>
-</div>`
-
-export const URL2 = `<div class="stepwizard-step">
-<a href="#step-2" type="button" class="btn btn-default btn-circle" disabled="disabled">2</a>
-<p>Análise</p>
-</div>`
-
-export const URL3 = `<div class="stepwizard-step">
-<a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
-<p>Confirmação</p>
-</div>`
-
 
 export const page1 = "Solicitar itens, serviços ou doações"
 export const pageAbout = `<h4 id="solicitar" style="text-align: center;"> ${page1} </h4>`
