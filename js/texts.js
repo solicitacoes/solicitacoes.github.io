@@ -15,12 +15,12 @@ Dessa forma evitamos superfaturamentos de plataformas de entregas.
 E ainda ajudamos os pequenos comerciantes. Portanto, fique em casa!`.trim();
 
 // page: Seus dados
-export const text2  = `Aqui você deve informar seus dados para que o estabelecimento entre em contato.
+export const text3  = `Aqui você deve informar seus dados para que o estabelecimento entre em contato.
 Seus dados serão armazenados apenas neste computador e não serão disponibilizados.
 Caso esteja utilizando um computador público recomenda-se utilizar o modo privado do navegador ou após a utilização limpar os dados do navegador.`.trim();
 
 // page: Cadastrar estabelecimento
-export const cadastro  = `Estabelecimento que deseja se cadastrar no sistema favor preencher esse formulário.
+export const text4  = `Estabelecimento que deseja se cadastrar no sistema favor preencher esse formulário.
 Todo a solicitação de cadastro será realizada uma confirmação.
 Será encaminhado um retorno quando o seu cadastro estiver disponível.
 Se você é um desenvolvedor de software ajude a automatizar esse cadastro.`.trim();
