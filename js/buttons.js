@@ -1,6 +1,6 @@
 export const Buttons2 = `<p style="margin-top: 20px;">
 <button class="btn btn-primary prevBtn btn-lg pull-left" type="button">Voltar</button>
-<a class="btn btn-primary prevBtn btn-lg pull-left" href="/estabelecimento">Selecionar estabelecimento</a>
+<a class="btn btn-primary prevBtn btn-lg pull-left" href="/solicitar/estabelecimento">Selecionar estabelecimento</a>
 <button class="btn btn-success btn-lg pull-right" type="submit">Confirmar</button>
 </p>`
 
