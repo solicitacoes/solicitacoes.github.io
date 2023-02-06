@@ -5,7 +5,7 @@
     subject: 'Documento de exemplo de solicitar',
     author: 'James Hall',
     keywords: 'generated, javascript, web 2.0, ajax',
-    creator: 'Codehangen'
+    creator: 'solicitacoes'
   });
   
   document.getElementById('cadastro').onsubmit = betterOnsubmit(values => {
