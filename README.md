@@ -1,8 +1,7 @@
-### <p align="center"><img src="https://avatars.githubusercontent.com/u/124218357?s=200&v=4" style="width: 50px;"> </p>
-### <p align="center">  Projeto Solicitar </p>
+## <img src="https://avatars.githubusercontent.com/u/124218357?s=200&v=4" style="width: 50px;"> Projeto Solicitar 
 
 ## Disclairmer
-Esse repositório é o fork do código original é `https://github.com/matheus-vieira/solicitar` e parte do código ui é baseado em - [Form-multi-step](https://github.com/Alexsandro-01/Form-multi-step) 
+Esse repositório é o fork do código original é `https://github.com/matheus-vieira/solicitar` e a parte ui/ux é baseado em [Form-multi-step](https://github.com/Alexsandro-01/Form-multi-step)
 
 ## Sobre a aplicação
 Os profissionais da saúde recomendam que fiquemos em reclusão por um período indeterminado com o intuito de achatar a curva de contágio do corona vírus (COVID 19).
