@@ -23,6 +23,9 @@ https://user-images.githubusercontent.com/73038442/211033430-cefd68c8-6827-43bd-
 #### img 1
 ![image](https://user-images.githubusercontent.com/123137817/216914081-dba160a1-26cf-4eb8-9813-db7145209cf7.png)
 
+#### img 2
+![image](https://user-images.githubusercontent.com/123137817/216918994-0d27c5f7-ec97-488c-ad7a-c2b450a7f11a.png)
+
 ## Contexto
 A ideia do projeto é uma aplicação de formulário com multiplos passos para o usuário seguir. É muito chato preencher formulários muito longos e a chance de um usuário desistir é grande. Quebar um formulário em partes menores é uma ótima estratégia para reter o usuário.
 
