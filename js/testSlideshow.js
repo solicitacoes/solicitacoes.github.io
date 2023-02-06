@@ -121,7 +121,7 @@ export const slideshow = `<div class="container">
               </div>
             </div>
           </div>
-          {Buttons2}
+          ${Buttons2}
         </div>
       </div>
     </div>
