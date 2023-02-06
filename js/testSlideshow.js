@@ -2,12 +2,7 @@ import { IconTextArea, IconEnd  } from  "./icons.js";
 import { textarea1, textarea2 } from "./textareas.js"
 import { Form1, Form2, Form3 } from "./forms.js"
 import { URL1, URL2, URL3 } from "./references.js"
-
-export const Buttons2 = `<p style="margin-top: 20px;">
-<button class="btn btn-primary prevBtn btn-lg pull-left" type="button">Voltar</button>
-<a class="btn btn-primary prevBtn btn-lg pull-left" href="/estabelecimento">Selecionar estabelecimento</a>
-<button class="btn btn-success btn-lg pull-right" type="submit">Confirmar</button>
-</p>`
+import { Buttons2, ConfirmarButton, AllButtons } from "./buttons.js"
 
 export const page1 = "Solicitar itens, serviços ou doações"
 export const pageAbout = `<h4 id="solicitar" style="text-align: center;"> ${page1} </h4>`
@@ -18,13 +13,6 @@ export const stepWizards = `<div class="stepwizard-row setup-panel">
 </div>`
 
 export const mainApp = `<div class="stepwizard col-md-offset-3"> ${stepWizards} </div>`
-
-export const ConfirmarButton = `<p> <button class="btn btn-success nextBtn btn-lg pull-right" type="button" style="width: 100%;"> Confirmar </button> </p>`
-
-export const AllButtons = `<p style="margin-top: 20px;">
-<button class="btn btn-primary prevBtn btn-lg pull-left" type="button">Voltar</button>
-<button class="btn btn-danger nextBtn btn-lg pull-right" type="button">Confirmar</button>
-</p>`
 
 export const slideshow = `<div class="container">
   ${pageAbout}
