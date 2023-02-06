@@ -1,4 +1,5 @@
 import { IconTextArea, IconEnd  } from  "./icons.js";
+import { textarea1, textarea2 } from "./textareas.js"
 
 export const text1 = `Devido à pandemia causado pelo coronavírus espalhando o covid-19 mundo afora, profissionais de saúde e governantes recomendam que as pessoas fiquem em quarentena e que se mantenha um distanciamento social.
 Porém, ainda precisamos de itens, serviços, e em alguns casos, doações. Com a necessidade informada acima foi disponibilizado esse site para conectar pessoas e estabelecimentos virtualmente. 
@@ -15,8 +16,7 @@ export const Buttons2 = `<p style="margin-top: 20px;">
 
 export const text2  = `Devido à pandemia causado pelo coronavírus espalhando o covid-19 mundo afora, profissionais de saúde e governantes recomendam que as pessoas fiquem em quarentena e que se mantenha um distanciamento social. Porém, ainda precisamos de itens, serviços, e em alguns casos, doações. Com a necessidade informada acima foi disponibilizado esse site para conectar pessoas e estabelecimentos virtualmente. Precisa comprar pão, solicite a uma padaria ou mercado. Você dono de estabelecimento, utilize esse site para receber encomendas. Dessa forma evitamos superfaturamentos de plataformas de entregas. E ainda ajudamos os pequenos comerciantes. Portanto, fique em casa!`
 export const styleTextArea =  "height: 121px; border: none; width: 100%; background: none; text-align: left;"
-export const textarea1 = `<textarea style="${styleTextArea}"> ${text1} </textarea>`.trim();
-export const textarea2 = `<textarea style="${styleTextArea}"> ${text2} </textarea>`
+
 
 export const URL1 = `<div class="stepwizard-step">
 <a href="#step-1" type="button" class="btn btn-primary btn-circle">1</a>
