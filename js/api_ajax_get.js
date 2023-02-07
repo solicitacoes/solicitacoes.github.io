@@ -1,4 +1,4 @@
-const http = new simpleAJAX;
+import { http } from  "./constants.js";
 
 users = http.get('https://jsonplaceholder.typicode.com/users',
   (err, users) => {
