@@ -2,8 +2,11 @@ export default class Cadastro {
 
     constructor(nome) {
         const format = /[!@#$%^&*()_+\-=\[\]{};:\\|,.<>\/?]/;
-        if (nome === undefined || nome.length <= 0 || nome  === "" || nome === '' ) {
+        if (nome === undefined || nome.length <= 0) {
             throw new Error("O nome é obrigatório para uma Pessoa");
+        }
+        if (nome === "" || nome === '') { 
+            throw new Error("O nome não pode conter um valor vazio, sem preenchimento ou nulo");
         }
         if (checkNumber.test(nome) === false) { // nome1 nome 2 nome3 nome4 ... 
             throw new Error("O nome não pode conter número");
