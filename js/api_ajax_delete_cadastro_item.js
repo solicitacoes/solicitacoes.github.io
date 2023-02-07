@@ -1,3 +1,5 @@
+import { http } from  "./constants.js";
+
 users = http.delete('https://jsonplaceholder.typicode.com/solicitar/idItem/',
 (err, response) => {
   if(err) {
