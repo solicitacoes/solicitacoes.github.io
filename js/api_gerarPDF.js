@@ -1,5 +1,6 @@
- // Salvar localmente
-  const doc = new jsPDF();
+import { doc } from  "./constants.js";
+ 
+// Salvar localmente
   doc.setProperties({
     title: 'Solicitar',
     subject: 'Documento de exemplo de solicitar',
