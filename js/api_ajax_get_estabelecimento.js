@@ -1,4 +1,4 @@
-export const http = new simpleAJAX;
+import { http } from  "./constants.js";
 
 export const TemplateEstabelecimento = http.get('https://jsonplaceholder.typicode.com/solicitar/estabelecimentos/template',
   (err, users) => {
