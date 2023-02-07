@@ -3,7 +3,7 @@ import { textarea1, textarea2 } from "./textareas.js"
 import { Form1, Form2, Form3 } from "./forms.js"
 import { ConfirmarButton, AllButtons, Buttons2 } from "./buttons.js"
 
-export const MainForm = `<form role="form" action="" method="post">
+export const MainForm = `<form role="form" id="form"> <!--- <form role="form" id="form" action="" method="post"> --->
     <div class="row setup-content" id="step-1">
       <div class="col-xs-6 col-md-offset-3">
         <div class="col-md-12">
