@@ -1,4 +1,4 @@
-const http = new simpleAJAX;
+import { http } from  "./constants.js";
 
 const data = {
   nome: '',
